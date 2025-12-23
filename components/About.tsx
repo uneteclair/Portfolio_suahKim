@@ -72,7 +72,7 @@ const About: React.FC = () => {
             <img 
               src="https://github.com/uneteclair/my-images/blob/main/%E1%84%83%E1%85%B5%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B5%E1%86%AF.jpg?raw=true" 
               alt="Kim Suah Profile" 
-              className="w-[300px] h-[400px] bg-[#f4f4f4] object-cover rounded-none filter-none shadow-xl" 
+              className="w-[300px] h-[400px] bg-[#f4f4f4] object-cover rounded-none filter-none" 
             />
           </div>
           
